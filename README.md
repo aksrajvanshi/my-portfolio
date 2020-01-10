@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/aksrajvanshi/https://githubcom/aksrajvanshi/my-portfolio.svg)](http://hits.dwyl.io/aksrajvanshi/https://githubcom/aksrajvanshi/my-portfolio)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
