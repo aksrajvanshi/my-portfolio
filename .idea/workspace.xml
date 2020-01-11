@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fc976b79-f721-46de-9ad3-7ba36ac947ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/WhatIDo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WhatIDo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
       <workItem from="1576853556764" duration="23000" />
       <workItem from="1576853612285" duration="15949000" />
       <workItem from="1577300059209" duration="2853000" />
-      <workItem from="1578090455009" duration="17387000" />
+      <workItem from="1578090455009" duration="17796000" />
     </task>
     <task id="LOCAL-00001" summary="changed README.md file">
       <created>1578632103721</created>
@@ -129,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578778770690</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Trying to make website mobile friendly.">
+      <created>1578784406402</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578784406402</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,27 +149,28 @@
     <MESSAGE value="changed favicon and overall page setup" />
     <MESSAGE value="small change in what I do description" />
     <MESSAGE value="Fixing passive to active voice." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing passive to active voice." />
+    <MESSAGE value="Trying to make website mobile friendly." />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to make website mobile friendly." />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576853669607">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1576853669607" />
-    <state x="297" y="36" key="CommitChangelistDialog2" timestamp="1578778770594">
+    <state x="297" y="36" key="CommitChangelistDialog2" timestamp="1578784406281">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="297" y="36" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1578778770594" />
+    <state x="297" y="36" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1578784406281" />
     <state x="297" y="36" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1578635049739" />
     <state x="308" y="184" key="IDE.errors.dialog" timestamp="1578778782666">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="308" y="184" key="IDE.errors.dialog/0.23.1440.821@0.23.1440.821" timestamp="1578778782666" />
     <state x="308" y="184" key="IDE.errors.dialog/0.23.1440.822@0.23.1440.822" timestamp="1578092262315" />
-    <state x="314" y="174" key="Vcs.Push.Dialog.v2" timestamp="1578778772313">
+    <state x="314" y="174" key="Vcs.Push.Dialog.v2" timestamp="1578784407672">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="314" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1578778772313" />
+    <state x="314" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1578784407672" />
     <state x="314" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1578635051137" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1577142843248">
       <screen x="0" y="23" width="1440" height="822" />
