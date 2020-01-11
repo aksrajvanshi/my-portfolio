@@ -64,8 +64,8 @@ export default class WhatIDo extends React.Component{
                                 </span>
                                     <div className="desc">
                                         <h3>Web Development </h3>
-                                        <p>I have experience building websites and work with frameworks such as Core Java, Spring Boot, J2EE, ReactJS
-                                            Servlets, and dependency management system such as Maven.</p>
+                                        <p>I have experience building websites and work with frameworks such as Core Java, Spring Boot, J2EE, ReactJS,
+                                            Servlets, and Maven.</p>
                                     </div>
                                 </div>
                             </div>
