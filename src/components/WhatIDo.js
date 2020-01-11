@@ -76,8 +76,7 @@ export default class WhatIDo extends React.Component{
                                 </span>
                                 <div className="desc">
                                     <h3>Associate Instructor</h3>
-                                    <p>To spread my knowledge and experience as well as help my juniors, I will be a Teaching Assistant
-                                        for the Intro to Software Systems (CSCI-C 212) in Spring 2020.</p>
+                                    <p>As a part of mentoring and helping undergrads with Java, I will be working as an Associate Instructor for the Intro to Software Systems course in Spring 2020.</p>
                                 </div>
                             </div>
                         </div>
