@@ -18,7 +18,7 @@ export default class Timeline extends React.Component {
                                     <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                                         <div className="timeline-entry-inner">
                                             <div className="timeline-icon color-1">
-                                                <i className="icon-pen2" />
+                                                <i className="icon-world2" />
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Associate Instructor at IU <span> Jan 2020- Present</span></h2>
@@ -30,7 +30,7 @@ export default class Timeline extends React.Component {
                                     <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                                         <div className="timeline-entry-inner">
                                             <div className="timeline-icon color-3">
-                                                <i className="icon-pen2" />
+                                                <i className="icon-study" />
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Graduate CS Student at Indiana University Bloomington <span> 2019- Present</span></h2>
@@ -42,7 +42,7 @@ export default class Timeline extends React.Component {
                                     <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                                         <div className="timeline-entry-inner">
                                             <div className="timeline-icon color-4">
-                                                <i className="icon-pen2" />
+                                                <i className="icon-briefcase3" />
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Java Developer at SBI-BITS<span> April 2017- July 2019</span></h2>
@@ -55,7 +55,7 @@ export default class Timeline extends React.Component {
                                     <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                                         <div className="timeline-entry-inner">
                                             <div className="timeline-icon color-5">
-                                                <i className="icon-pen2" />
+                                                <i className="icon-briefcase3" />
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Web Engineer at Hikari Tsushin <span> Oct 2014- Feb 2017</span></h2>
@@ -68,7 +68,7 @@ export default class Timeline extends React.Component {
                                     <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                                         <div className="timeline-entry-inner">
                                             <div className="timeline-icon color-6">
-                                                <i className="icon-pen2" />
+                                                <i className="icon-study" />
                                             </div>
                                             <div className="timeline-label">
                                                 <h2>Undergrad from IIIT-Delhi  <span> August 2010- May 2014</span></h2>

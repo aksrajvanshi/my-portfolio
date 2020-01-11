@@ -15,7 +15,7 @@ export default class Introduction extends React.Component {
                                             <div className="slider-text-inner js-fullheight">
                                                 <div className="desc">
                                                     <h1>Hello! <br />I'm Akshay</h1>
-                                                    <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1EbcqWE52cBC_i-DoR4S0bjE6j2Dehlyq/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                                                    <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1QJ0vg5ee1I9iGwtOLRSAPTlMeSw8OSlF/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                                                 </div>
                                             </div>
                                         </div>
