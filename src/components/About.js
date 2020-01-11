@@ -13,7 +13,7 @@ export default class About extends React.Component {
                                             <span className="heading-meta">About Me</span>
                                             <h2 className="colorlib-heading">Who Am I ?</h2>
                                             <p>MS in Computer Science student at IU Bloomington. One word that defines me ? <b>Passionate and curious</b> about everything I do!
-                                            Have hobbies such as photography and reading books. Loves watching and discussing about football and cricket.</p>
+                                            Have hobbies such as photography and reading books. Loves travelling, watching and discussing about football and cricket.</p>
                                             <p></p>
                                         </div>
                                 </div>

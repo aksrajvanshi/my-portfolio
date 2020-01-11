@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fc976b79-f721-46de-9ad3-7ba36ac947ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Introduction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Introduction.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Timeline.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Timeline.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/WhatIDo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/WhatIDo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +85,7 @@
       <workItem from="1576853556764" duration="23000" />
       <workItem from="1576853612285" duration="15949000" />
       <workItem from="1577300059209" duration="2853000" />
-      <workItem from="1578090455009" duration="14670000" />
+      <workItem from="1578090455009" duration="14867000" />
     </task>
     <task id="LOCAL-00001" summary="changed README.md file">
       <created>1578632103721</created>
@@ -113,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578635049837</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed favicon and overall page setup">
+      <created>1578768015675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578768015675</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,25 +125,27 @@
     <MESSAGE value="changed README.md file" />
     <MESSAGE value="Changed content for the timeline." />
     <MESSAGE value="changed title for the webpage" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed title for the webpage" />
+    <MESSAGE value="changed favicon and overall page setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed favicon and overall page setup" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576853669607">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1576853669607" />
-    <state x="297" y="36" key="CommitChangelistDialog2" timestamp="1578767959000">
+    <state x="297" y="36" key="CommitChangelistDialog2" timestamp="1578768015566">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="297" y="36" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1578767959000" />
+    <state x="297" y="36" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1578768015566" />
     <state x="297" y="36" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1578635049739" />
     <state x="308" y="184" key="IDE.errors.dialog" timestamp="1578092262315">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="308" y="184" key="IDE.errors.dialog/0.23.1440.822@0.23.1440.822" timestamp="1578092262315" />
-    <state x="314" y="174" key="Vcs.Push.Dialog.v2" timestamp="1578635051137">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="314" y="174" key="Vcs.Push.Dialog.v2" timestamp="1578768016774">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
+    <state x="314" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1578768016774" />
     <state x="314" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1578635051137" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1577142843248">
       <screen x="0" y="23" width="1440" height="822" />
