@@ -41,8 +41,8 @@ export default class WhatIDo extends React.Component{
                                     <i className="icon-data" />
                                 </span>
                                     <div className="desc">
-                                        <h3>Dev Ops & Databases</h3>
-                                        <p>Docker, Kubernetes, TravisCI, MySQL, OracleDB, Postgresql</p>
+                                        <h3>DevOps & Databases</h3>
+                                        <p>Docker, Kubernetes, TravisCI, MySQL, OracleDB, Postgresql, MongoDB</p>
                                     </div>
                                 </div>
                             </div>
@@ -53,7 +53,8 @@ export default class WhatIDo extends React.Component{
                                 </span>
                                 <div className="desc">
                                     <h3>Data Structures & Algorithms</h3>
-                                    <p>As I come from the CS background, I enjoy problem-solving and have a good grasp over the fundamental concepts of Data Structures & Algorithms</p>
+                                    <p>As I come from the CS background, I enjoy problem-solving
+                                        and have a good grasp over the fundamental concepts of Data Structures & Algorithms</p>
                                 </div>
                             </div>
                         </div>
@@ -64,7 +65,8 @@ export default class WhatIDo extends React.Component{
                                 </span>
                                     <div className="desc">
                                         <h3>Web Development </h3>
-                                        <p>I have experience building websites and work with frameworks such as Core Java, Spring Boot, J2EE, ReactJS,
+                                        <p>I have experience building websites and work with frameworks
+                                            such as Core Java, Spring Boot, J2EE, ReactJS,
                                             Servlets, and Maven.</p>
                                     </div>
                                 </div>
@@ -76,7 +78,9 @@ export default class WhatIDo extends React.Component{
                                 </span>
                                 <div className="desc">
                                     <h3>Associate Instructor</h3>
-                                    <p>As a part of mentoring and helping undergrads with Java, I will be working as an Associate Instructor for the Intro to Software Systems course in Spring 2020.</p>
+                                    <p>As a part of mentoring and helping undergrads with Java,
+                                        I will be working as an Associate Instructor for the Intro to Software Systems
+                                        course in Spring 2020.</p>
                                 </div>
                             </div>
                         </div>
