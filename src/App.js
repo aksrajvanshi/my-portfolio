@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import About from "./components/About";
 import Introduction from "./components/Introduction";
 import Sidebar from "./components/Sidebar";

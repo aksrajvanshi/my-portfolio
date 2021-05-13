@@ -17,7 +17,7 @@ export default class Sidebar extends React.Component {
                                 <ul>
                                     <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                                     <li><a href="#about" data-nav-section="about">About</a></li>
-                                    <li><a href="#WhatIDo" data-nav-section="whatIDo">What I DO ?</a></li>
+                                    <li><a href="#WhatIDo" data-nav-section="whatIDo">What I Do</a></li>
                                     <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
                                 </ul>
                             </div>
@@ -25,19 +25,10 @@ export default class Sidebar extends React.Component {
                         <nav id="colorlib-main-menu">
                             <ul>
                                 <li><a href="https://www.instagram.com/aksraj1992/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                                <li><a href="https://www.linkedin.com/in/akshay-rajvanshi/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                                <li><a href="https://www.linkedin.com/in/arajvans/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                                 <li><a href="https://github.com/aksrajvanshi" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                             </ul>
                         </nav>
-                        <div className="colorlib-footer">
-                            <p><small>
-                                Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
-                                Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration
-                            </small></p>
-                            <p><small>
-                                Something coming soon !!
-                            </small></p>
-                        </div>
                     </aside>
                 </div>
             </div>

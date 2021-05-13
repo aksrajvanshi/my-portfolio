@@ -15,14 +15,42 @@ export default class Timeline extends React.Component {
                         <div className="row">
                             <div className="col-md-12">
                                 <div className="timeline-centered">
+
+                                    <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                                        <div className="timeline-entry-inner">
+                                            <div className="timeline-icon color-2">
+                                                <i className="icon-world2" />
+                                            </div>
+                                            <div className="timeline-label">
+                                                <h2>SDE at AWS <span> Feb 2020 - Present</span></h2>
+                                                <p> For a semester, I got the opportunity to guide, teach and conduct labs for Java to about 20 undergrad students and spread the knowledge
+                                                    I gained from my experience. I will be assisting the instructor with grading for the <b>CSCI C212-Introduction to Software Systems</b> course.</p>
+                                            </div>
+                                        </div>
+                                    </article>
+
+                                    <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                                        <div className="timeline-entry-inner">
+                                            <div className="timeline-icon color-2">
+                                                <i className="icon-world2" />
+                                            </div>
+                                            <div className="timeline-label">
+                                                <h2>SDE Intern at AWS <span> June 2020 - Aug 2020</span></h2>
+                                                <p> For a semester, I got the opportunity to guide, teach and conduct labs for Java to about 20 undergrad students and spread the knowledge
+                                                    I gained from my experience. I will be assisting the instructor with grading for the <b>CSCI C212-Introduction to Software Systems</b> course.</p>
+                                            </div>
+                                        </div>
+                                    </article>
+
+
                                     <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                                         <div className="timeline-entry-inner">
                                             <div className="timeline-icon color-1">
                                                 <i className="icon-world2" />
                                             </div>
                                             <div className="timeline-label">
-                                                <h2>Associate Instructor at IU <span> Jan 2020- Present</span></h2>
-                                                <p>As a longing dream for my masters, I get to conduct labs and teach Java to about 20 undergrad students and spread the knowledge
+                                                <h2>Associate Instructor at IU <span> Jan 2020 - May 2020</span></h2>
+                                                <p> For a semester, I got the opportunity to guide, teach and conduct labs for Java to about 20 undergrad students and spread the knowledge
                                                 I gained from my experience. I will be assisting the instructor with grading for the <b>CSCI C212-Introduction to Software Systems</b> course.</p>
                                             </div>
                                         </div>
@@ -33,9 +61,10 @@ export default class Timeline extends React.Component {
                                                 <i className="icon-study" />
                                             </div>
                                             <div className="timeline-label">
-                                                <h2>Graduate CS Student at Indiana University Bloomington <span> 2019- Present</span></h2>
-                                                <p>After a long stint as a professional developer, I decided to head back to study and get my Masters at IU. Right now, I am studying Computer Science
-                                                and enjoying the learning experience I get from professors and my peers. In my first semester, I took up courses such as <b>cloud computing, software engineering and applied algorithms</b>.</p>
+                                                <h2>Graduate CS Student at Indiana University Bloomington <span> Aug 2019 - Dec 2020</span></h2>
+                                                <p>After 4-5 years of working in the industry, I decided to head back to study and pursue my Masters at IU. I studied Computer Science
+                                                and enjoyed the learning experience I got from professors and my peers. I took up courses that challenge me, such as <b>Cloud Computing, software engineering, Applied Distributed Systems and Cyber Defense Competitions</b>.
+                                                    I tried to cover a variety of fields in order to familiarize myself with different topics in Computer Science.</p>
                                             </div>
                                         </div>
                                     </article>
