@@ -4,6 +4,7 @@ import Introduction from "./components/Introduction";
 import Sidebar from "./components/Sidebar";
 import Timeline from "./components/Timeline";
 import WhatIDo from "./components/WhatIDo";
+import Projects from "./components/Projects";
 
 class App extends React.Component {
     render() {
@@ -16,6 +17,7 @@ class App extends React.Component {
                         <About></About>
                         <WhatIDo></WhatIDo>
                         <Timeline></Timeline>
+                        <Projects></Projects>
                     </div>
                 </div>
             </div>

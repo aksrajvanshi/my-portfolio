@@ -65,7 +65,7 @@ export default class WhatIDo extends React.Component{
                                 </span>
                                     <div className="desc">
                                         <h3>Web Development </h3>
-                                        <p>I have experience building websites and work with frameworks
+                                        <p>I have experience building websites and working with frameworks
                                             such as Core Java, Spring Boot, J2EE, ReactJS,
                                             Servlets, and Maven.</p>
                                     </div>
@@ -79,7 +79,7 @@ export default class WhatIDo extends React.Component{
                                 <div className="desc">
                                     <h3>Associate Instructor</h3>
                                     <p>As a part of mentoring and helping undergrads with Java,
-                                        I will be working as an Associate Instructor for the Intro to Software Systems
+                                        I worked as an Associate Instructor for the Intro to Software Systems
                                         course in Spring 2020.</p>
                                 </div>
                             </div>

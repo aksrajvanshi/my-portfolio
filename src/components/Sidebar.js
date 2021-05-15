@@ -19,6 +19,7 @@ export default class Sidebar extends React.Component {
                                     <li><a href="#about" data-nav-section="about">About</a></li>
                                     <li><a href="#WhatIDo" data-nav-section="whatIDo">What I Do</a></li>
                                     <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
+                                    <li><a href="#projects" data-nav-section="projects">Projects</a></li>
                                 </ul>
                             </div>
                         </nav>
