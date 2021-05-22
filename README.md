@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/aksrajvanshi/https://githubcom/aksrajvanshi/my-portfolio.svg)](http://hits.dwyl.io/aksrajvanshi/https://githubcom/aksrajvanshi/my-portfolio)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=aksrajvanshi.github.io%2Fmy-portfolio%2F)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
